@@ -1,4 +1,4 @@
-es (59 sloc) 1.66 KB
+
 pipeline {
   agent any 
   tools {
